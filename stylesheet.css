@@ -1,0 +1,73 @@
+.top-wrapper h1 {
+  color:#f1e2be;
+  font-size:70px;
+  pading-top:5px;
+  font-weight:bold;
+  text-align:center;
+  letter-spacing:4px;
+  font-family:serif;
+
+}
+.top-wrapper p{
+  color:#f1e2be;
+  font-size:20px;
+  text-align:center;
+  font-family:sans-serif;
+}
+.top-wrapper{
+  height:500px;
+  background-image:url(IMG_0238.JPG);
+  background-size:cover;
+
+
+}
+.contents  {
+border-top:5px solid #0bd;
+margin-top:50px;
+background-color:#e6f0f0;
+}
+.action{
+  border-top:5px solid #0bd;
+ margin-top:50px;
+ background-color:#e6f0f0;
+}
+.action p{
+  font-size:20px;
+  border-bottom:2px solid #0bd;
+  font-family: sans-serif;
+}
+.action.h2{
+  font-size:30px
+  font-family:sans-serif;
+}
+.movie{
+  border-top:5px solid #0bd;
+ margin-top:40px;
+ background-color:#e6f0f0;
+}
+.movie p {
+  font-size:20px;
+  border-bottom:2px solid #0bd;
+  font-family: sans-serif;
+}
+.twitter{
+  border-top:5px solid #0bd;
+ margin-top:40px;
+
+}
+.twitter h2{
+  font-size:30px
+  font-family:sans-serif;
+}
+.twitter p{
+  font-size:15;
+  font-weight:bold;
+  border-bottom:2px solid #0bd;
+  font-family: sans-serif;
+}
+
+
+.footer{
+  border-top:5px solid #0bd;
+ margin-top:40px;
+}
